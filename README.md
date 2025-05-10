@@ -61,8 +61,8 @@ A Django-based backend that manages:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/InsighAi.git
-cd InsighAi
+git clone https://github.com/Siddharth-Basale/Quasar3.oFinalRepo.git
+cd Quasar3.oFinalRepo
 ```
 
 2. Set up the AI Mock Interview component:
